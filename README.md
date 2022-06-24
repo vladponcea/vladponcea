@@ -4,7 +4,7 @@ Hi 👋 My name is Vlad
 Mobile Developer
 ----------------
 
-I have 3+ years of experience with Mobile App Development, having many successful projects built upon these years.
+I have 4+ years of experience with Mobile App Development, having many successful projects built upon these years.
 
 * 🌍  I'm based in Romania
 * ✉️  You can contact me at [contact@vladponcea.com](mailto:contact@vladponcea.com)
