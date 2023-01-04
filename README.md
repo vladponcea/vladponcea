@@ -8,7 +8,6 @@ I have 4+ years of experience with Mobile App Development, having many successfu
 
 * 🌍  I'm based in Romania
 * ✉️  You can contact me at [contact@vladponcea.com](mailto:contact@vladponcea.com)
-* 🧠  I'm currently learning React Native
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
